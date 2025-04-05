@@ -1,3 +1,8 @@
+/* 
+    Programmer: Felipe Rosa 
+    Date: 05/04
+*/
+
 #include <stdio.h>
 
 

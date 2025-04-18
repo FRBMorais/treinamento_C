@@ -1,3 +1,8 @@
+/* 
+    Programmer: Felipe Rosa 
+    Date: 17/04
+*/
+
 #include <stdio.h>
  
 int main() {
